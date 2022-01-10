@@ -10,7 +10,7 @@ public class BinaryTreeDemo {
         //创建一个二叉树
         BinaryTree binaryTree = new BinaryTree();
         //创建节点
-        Node root = new Node(1, "宋江");
+        Node root = new Node(1, "王文凯");
         Node node2 = new Node(2, "吴用");
         Node node3 = new Node(3, "卢俊义");
         Node node4 = new Node(4, "林冲");
